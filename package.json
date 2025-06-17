@@ -1,0 +1,17 @@
+{
+  "name": "team-kira-minecraft-server",
+  "version": "2.0.0",
+  "description": "Team Kira's server - Servidor de Minecraft profesional",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo 'Team Kira Server - Use GitHub Actions to deploy'",
+    "info": "echo 'Visit: https://github.com/tu-usuario/team-kira-minecraft-server/actions'"
+  },
+  "keywords": ["minecraft", "team-kira", "server", "gaming", "infrastructure"],
+  "author": "Team Kira",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/team-kira-minecraft-server.git"
+  }
+}

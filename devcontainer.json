@@ -1,0 +1,17 @@
+{
+  "name": "Team Kira's Minecraft Server",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "17"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  },
+  "forwardPorts": [25565, 4040],
+  "postCreateCommand": "pip install requests",
+  "remoteUser": "vscode"
+}
