@@ -5,18 +5,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-06-25 16:44:42 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-06-25 01:43:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-25 16:36:43 +0000"
@@ -29,21 +17,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:creeper": "2025-06-25 16:26:00 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/mosaic_glass": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000"
     },
     "done": true
   },
@@ -72,16 +48,262 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/blackstone": {
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:32:50 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_wood": "2025-06-25 16:19:59 +0000",
       "has_the_recipe": "2025-06-25 16:19:59 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/palm_boat": {
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-25 16:51:52 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-25 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-25 16:43:16 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:32:50 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-25 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000",
+      "has_the_recipe": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 16:51:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-25 16:41:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-25 16:31:38 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000",
+      "has_the_recipe": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-25 16:44:42 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000",
+      "has_the_recipe": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-06-25 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:32:50 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000",
+      "has_the_recipe": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/trading_core": {
+    "criteria": {
+      "trading_core": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-25 16:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-06-25 16:44:42 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000",
+      "has_the_recipe": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:32:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-25 16:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-25 16:44:42 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-06-25 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-06-25 16:26:00 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:19:59 +0000",
+      "has_the_recipe": "2025-06-25 16:19:59 +0000"
     },
     "done": true
   },
@@ -103,37 +325,25 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/sandstone": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000",
-      "has_the_recipe": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:32:50 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-06-25 16:51:52 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/blinds": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-06-25 17:08:54 +0000",
       "minecraft:forest": "2025-06-25 16:23:39 +0000",
       "minecraft:taiga": "2025-06-25 16:19:37 +0000",
+      "minecraft:desert_hills": "2025-06-25 17:09:47 +0000",
       "minecraft:taiga_hills": "2025-06-25 16:50:38 +0000",
+      "minecraft:desert": "2025-06-25 17:09:45 +0000",
+      "minecraft:savanna_plateau": "2025-06-25 17:08:46 +0000",
+      "minecraft:beach": "2025-06-25 17:08:52 +0000",
       "minecraft:river": "2025-06-25 16:32:50 +0000",
+      "minecraft:wooded_hills": "2025-06-25 17:10:20 +0000",
+      "minecraft:savanna": "2025-06-25 17:07:28 +0000",
       "minecraft:plains": "2025-06-25 01:43:49 +0000"
     },
     "done": false
@@ -141,12 +351,6 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-06-25 16:31:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2025-06-25 16:32:50 +0000"
     },
     "done": true
   },
@@ -163,12 +367,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/mahogany_boat": {
-    "criteria": {
-      "in_water": "2025-06-25 16:32:50 +0000"
-    },
-    "done": true
-  },
   "lightmanscurrency:currency/netherite_wallet": {
     "criteria": {
       "netherite_wallet": "2025-06-25 16:19:59 +0000"
@@ -181,33 +379,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-06-25 16:43:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:32:50 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/metal": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-06-25 16:36:43 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/bricks": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000"
     },
     "done": true
   },
@@ -223,12 +403,6 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/arrow_slits_gothic": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:32:50 +0000"
@@ -241,21 +415,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2025-06-25 16:32:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-06-25 01:44:18 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-06-25 01:43:50 +0000"
     },
     "done": true
   },
@@ -265,20 +427,7 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/dark_prismarine": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000",
-      "has_the_recipe": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-06-25 16:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:32:50 +0000"
     },
@@ -290,28 +439,10 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-06-25 16:51:21 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-06-25 16:19:59 +0000",
       "has_the_recipe": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-06-25 16:41:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-06-25 16:36:43 +0000"
     },
     "done": true
   },
@@ -330,12 +461,6 @@
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-06-25 16:31:38 +0000"
     },
     "done": true
   },
@@ -389,6 +514,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-06-25 17:10:21 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-06-25 16:19:59 +0000"
@@ -407,32 +538,6 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000",
-      "has_the_recipe": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-06-25 16:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-06-25 16:44:42 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000",
-      "has_the_recipe": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:32:50 +0000"
@@ -445,29 +550,13 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/shutters": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-25 16:58:11 +0000",
       "minecraft:nether_wastes": "2025-06-25 16:51:52 +0000",
-      "minecraft:warped_forest": "2025-06-25 17:00:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-06-25 16:36:43 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2025-06-25 16:32:50 +0000"
+      "minecraft:soul_sand_valley": "2025-06-25 17:01:43 +0000",
+      "minecraft:warped_forest": "2025-06-25 17:00:30 +0000",
+      "minecraft:basalt_deltas": "2025-06-25 17:03:00 +0000"
     },
     "done": true
   },
@@ -485,34 +574,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/prismarine": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000",
-      "has_the_recipe": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
   "lightmanscurrency:currency/cash_register": {
     "criteria": {
       "cash_register": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/components": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/trading_core": {
-    "criteria": {
-      "trading_core": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-25 16:31:38 +0000"
     },
     "done": true
   },
@@ -522,28 +586,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2025-06-25 16:44:42 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/crimson": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000",
-      "has_the_recipe": "2025-06-25 16:19:59 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-06-25 16:41:37 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/warped": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:19:59 +0000"
     },
     "done": true
   },
@@ -560,27 +605,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-06-25 16:32:50 +0000"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2025-06-25 16:51:21 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/fir_boat": {
-    "criteria": {
-      "in_water": "2025-06-25 16:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-06-25 16:51:21 +0000"
     },
     "done": true
   },
