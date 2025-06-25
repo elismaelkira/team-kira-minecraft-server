@@ -11881,3 +11881,51 @@ Caused by: java.lang.NoSuchMethodException: net.minecraft.world.GameRules$Boolea
 [25Jun2025 16:34:12.756] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #1 data to player elismaelkira
 [25Jun2025 16:34:20.771] [Worker-Main-7/DEBUG] [betterdungeons/]: Spider Dungeon at -427 47 221
 [25Jun2025 16:34:41.957] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at -473 17 359
+[25Jun2025 16:35:00.150] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -105 34 -745
+[25Jun2025 16:35:01.525] [Worker-Main-12/INFO] [antiqueatlas/]: Created new marker #6"Village"@(283, -681)
+[25Jun2025 16:35:06.112] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[25Jun2025 16:35:06.112] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[25Jun2025 16:35:07.043] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 16:35:07.068] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 16:35:07.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Teleported elismaelkira to arpom]
+[25Jun2025 16:35:07.466] [Worker-Main-12/DEBUG] [betterdungeons/]: Zombie Dungeon at 335 49 -633
+[25Jun2025 16:35:07.960] [Server thread/DEBUG] [mixin/]: Mixing common.RandomClinitMixin from francium.mixins.json into net.minecraft.inventory.InventoryHelper
+[25Jun2025 16:35:26.012] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 167 37 -787
+[25Jun2025 16:35:26.147] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 351 27 -785
+[25Jun2025 16:35:39.306] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 7 47 -801
+[25Jun2025 16:35:39.946] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -297 25 -793
+[25Jun2025 16:35:43.751] [Server thread/DEBUG] [mixin/]: Mixing perf.async_locator.MerchantOfferAccess from modernfix-forge.mixins.json into net.minecraft.item.MerchantOffer
+[25Jun2025 16:35:44.614] [Worker-Main-18/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[25Jun2025 16:36:03.202] [Worker-Main-7/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[25Jun2025 16:36:06.187] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/TileEntityMerger$Type
+[25Jun2025 16:36:16.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom has made the advancement [Stone Age]
+[25Jun2025 16:36:21.402] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/1423, l='ServerLevel[world]', x=62.42, y=134.16, z=-510.52] died, message: 'Toolsmith tried to swim in lava'
+[25Jun2025 16:36:43.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Teleported elismaelkira to arpom]
+[25Jun2025 16:36:43.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has made the advancement [Stone Age]
+[25Jun2025 16:36:51.750] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jun2025 16:36:51.751] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (11 tiles)
+[25Jun2025 16:36:51.751] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #1 data to player arpom
+[25Jun2025 16:37:14.939] [Server thread/INFO] [antiqueatlas/]: Created new marker #1""@(-80, -416)
+[25Jun2025 16:37:14.952] [Server thread/INFO] [antiqueatlas/]: Sent markers data #1 to player elismaelkira
+[25Jun2025 16:37:14.953] [Server thread/INFO] [antiqueatlas/]: Sent markers data #1 to player arpom
+[25Jun2025 16:37:35.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Teleported arpom to elismaelkira]
+[25Jun2025 16:38:00.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4413ms or 88 ticks behind
+[25Jun2025 16:38:00.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set the weather to rain & thunder]
+[25Jun2025 16:38:00.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set the weather to clear]
+[25Jun2025 16:38:45.300] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jun2025 16:38:45.300] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (0 tiles)
+[25Jun2025 16:38:45.300] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player elismaelkira
+[25Jun2025 16:39:27.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4791ms or 95 ticks behind
+[25Jun2025 16:39:59.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4319ms or 86 ticks behind
+[25Jun2025 16:40:19.558] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[25Jun2025 16:40:19.558] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[25Jun2025 16:40:19.949] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 16:40:19.968] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 16:40:46.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[25Jun2025 16:41:07.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4370ms or 87 ticks behind
+[25Jun2025 16:41:37.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has made the advancement [Cobweb Entanglement]
+[25Jun2025 16:41:51.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom has made the advancement [Cobweb Entanglement]
+[25Jun2025 16:42:21.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Applied effect Regeneration to 2 targets]
+[25Jun2025 16:43:38.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set the weather to clear]
+[25Jun2025 16:43:38.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set the weather to clear]
+[25Jun2025 16:44:39.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Applied effect Night Vision to 2 targets]

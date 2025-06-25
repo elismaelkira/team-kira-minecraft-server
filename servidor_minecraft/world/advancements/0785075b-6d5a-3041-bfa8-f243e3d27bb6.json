@@ -1,4 +1,796 @@
 {
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-25 16:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-25 16:29:32 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_light_blue_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000",
+      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_stool_tall_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_shield_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_gray_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000",
+      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_pink_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_red_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_gray_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-25 16:33:31 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_green_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_yellow_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_brown_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_pickaxe_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_purple_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_hammer_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-25 16:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-25 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_light_blue_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000",
+      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_black_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_purple_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_yellow_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-25 16:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_black_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_white_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000",
+      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000",
+      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_blue_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_magenta_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_cyan_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000",
+      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/trading_core": {
+    "criteria": {
+      "trading_core": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-25 16:24:32 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-25 16:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000",
+      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-25 16:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_green_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-06-25 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-25 16:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_orange_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_brown_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000",
+      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_classic_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-06-25 16:23:38 +0000",
+      "minecraft:taiga": "2025-06-25 01:44:08 +0000",
+      "minecraft:river": "2025-06-25 16:30:43 +0000",
+      "minecraft:plains": "2025-06-25 16:23:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-25 16:24:32 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000",
+      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_light_gray_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/netherite_wallet": {
+    "criteria": {
+      "netherite_wallet": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_hoe_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_lime_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_orange_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-25 16:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_blue_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_pink_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_magenta_single_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-06-25 16:23:46 +0000",
@@ -18,21 +810,9 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-06-25 01:44:08 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2025-06-25 16:23:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-06-25 16:24:32 +0000"
     },
     "done": true
   },
@@ -42,15 +822,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_light_gray_single_oak": {
     "criteria": {
-      "has_rotten_flesh": "2025-06-25 16:29:32 +0000"
+      "has_rock": "2025-06-25 16:31:45 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/mosaic_glass": {
+  "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000"
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-25 16:30:48 +0000"
     },
     "done": true
   },
@@ -67,10 +853,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/andesite": {
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_cyan_single_oak": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000",
-      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+      "has_rock": "2025-06-25 16:31:45 +0000"
     },
     "done": true
   },
@@ -80,43 +865,45 @@
     },
     "done": true
   },
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_stool_short_oak": {
+    "criteria": {
+      "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/quartz": {
     "criteria": {
       "has_wood": "2025-06-25 16:23:46 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/blackstone": {
+  "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000",
-      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+      "has_granite": "2025-06-25 16:36:16 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/dark_oak": {
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_red_single_oak": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000",
-      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+      "has_rock": "2025-06-25 16:31:45 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/sandstone": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000",
-      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+      "has_chicken": "2025-06-25 16:33:31 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/blinds": {
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000",
-      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+      "in_water": "2025-06-25 16:30:48 +0000"
     },
     "done": true
   },
@@ -126,30 +913,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/shutters": {
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_log_single_oak": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-06-25 16:23:38 +0000",
-      "minecraft:taiga": "2025-06-25 01:44:08 +0000",
-      "minecraft:plains": "2025-06-25 16:23:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-06-25 16:24:32 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/curtain_rods": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000",
-      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+      "has_rock": "2025-06-25 16:31:45 +0000"
     },
     "done": true
   },
@@ -160,6 +926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_wood": "2025-06-25 16:23:46 +0000",
@@ -167,22 +939,9 @@
     },
     "done": true
   },
-  "lightmanscurrency:currency/netherite_wallet": {
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_lime_single_oak": {
     "criteria": {
-      "netherite_wallet": "2025-06-25 16:23:46 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/one_way_glass": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/prismarine": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000",
-      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+      "has_rock": "2025-06-25 16:31:45 +0000"
     },
     "done": true
   },
@@ -192,52 +951,45 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/components": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000"
+      "has_granite": "2025-06-25 16:36:16 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/metal": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000"
+      "has_chicken": "2025-06-25 16:33:31 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/bricks": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000"
+      "has_planks": "2025-06-25 16:31:45 +0000"
     },
     "done": true
   },
-  "lightmanscurrency:currency/trading_core": {
+  "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "trading_core": "2025-06-25 16:23:46 +0000"
+      "in_water": "2025-06-25 16:30:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_log": "2025-06-25 16:24:32 +0000"
+      "has_stick": "2025-06-25 16:31:56 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/arrow_slits_gothic": {
+  "paraglider:root": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000"
+      "crafting_table": "2025-06-25 16:31:48 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/crimson": {
+  "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_white_single_oak": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000",
-      "has_the_recipe": "2025-06-25 16:23:46 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/warped": {
-    "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000"
+      "has_rock": "2025-06-25 16:31:45 +0000"
     },
     "done": true
   },
@@ -248,28 +1000,39 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "killed_something": "2025-06-25 16:23:48 +0000"
+      "has_cobblestone": "2025-06-25 16:36:16 +0000"
     },
     "done": true
   },
-  "mowziesmobs:root": {
+  "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
     "criteria": {
-      "custom_test_name": "2025-06-25 01:44:08 +0000"
+      "has_stick": "2025-06-25 16:31:56 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/dark_prismarine": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_wood": "2025-06-25 16:23:46 +0000",
-      "has_the_recipe": "2025-06-25 16:23:46 +0000"
+      "has_porkchop": "2025-06-25 16:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-25 16:31:45 +0000"
     },
     "done": true
   },
   "mcwwindows:recipes/granite": {
     "criteria": {
       "has_wood": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
+    "criteria": {
+      "has_stick": "2025-06-25 16:31:56 +0000"
     },
     "done": true
   },
