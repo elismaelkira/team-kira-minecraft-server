@@ -36,11 +36,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-06-25 16:26:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-06-25 16:19:59 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-06-25 16:26:00 +0000"
+    },
+    "done": false
   },
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
@@ -87,6 +99,12 @@
     },
     "done": true
   },
+  "lightmanscurrency:currency/myfirstpenny": {
+    "criteria": {
+      "coin": "2025-06-25 16:26:00 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-06-25 16:19:59 +0000",
@@ -128,6 +146,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-06-25 16:23:39 +0000",
       "minecraft:taiga": "2025-06-25 16:19:37 +0000",
       "minecraft:plains": "2025-06-25 01:43:49 +0000"
     },

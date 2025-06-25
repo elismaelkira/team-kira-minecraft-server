@@ -6232,3 +6232,26 @@ Caused by: java.lang.NoSuchMethodException: net.minecraft.world.GameRules$Boolea
 [25Jun2025 16:24:01.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Teleported elismaelkira to arpom]
 [25Jun2025 16:24:10.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira was slain by arpom
 [25Jun2025 16:24:14.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Teleported elismaelkira to arpom]
+[25Jun2025 16:25:06.106] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[25Jun2025 16:25:30.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set own game mode to Creative Mode]
+[25Jun2025 16:25:36.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set own game mode to Survival Mode]
+[25Jun2025 16:26:00.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has made the advancement [Monster Hunter]
+[25Jun2025 16:26:00.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has made the advancement [My first penny!]
+[25Jun2025 16:27:14.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Applied effect Haste to elismaelkira]
+[25Jun2025 16:27:23.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set the weather to clear]
+[25Jun2025 16:29:44.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Applied effect Regeneration to elismaelkira]
+[25Jun2025 16:30:16.345] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/horse/CoatColors
+[25Jun2025 16:30:16.347] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/horse/CoatTypes
+[25Jun2025 16:31:58.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Applied effect Saturation to elismaelkira]
+[25Jun2025 16:32:21.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Applied effect Saturation to 2 targets]
+[25Jun2025 16:32:39.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set the weather to clear]
+[25Jun2025 16:33:29.278] [Worker-Main-12/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[25Jun2025 16:33:29.288] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/TypeRewriteRule$Nop
+[25Jun2025 16:33:29.374] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/FunctionType$Instance
+[25Jun2025 16:33:29.718] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/kinds/IdF$Instance
+[25Jun2025 16:33:30.146] [Worker-Main-12/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[25Jun2025 16:33:57.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set the time to 657]
+[25Jun2025 16:34:02.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set own game mode to Creative Mode]
+[25Jun2025 16:34:12.755] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jun2025 16:34:12.756] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (0 tiles)
+[25Jun2025 16:34:12.756] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #1 data to player elismaelkira

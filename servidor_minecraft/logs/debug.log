@@ -11821,3 +11821,63 @@ Caused by: java.lang.NoSuchMethodException: net.minecraft.world.GameRules$Boolea
 [25Jun2025 16:24:25.621] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at 487 26 321
 [25Jun2025 16:24:26.246] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at 481 33 -265
 [25Jun2025 16:24:28.302] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at 495 48 191
+[25Jun2025 16:25:06.106] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[25Jun2025 16:25:06.415] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 16:25:06.444] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 16:25:30.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set own game mode to Creative Mode]
+[25Jun2025 16:25:36.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set own game mode to Survival Mode]
+[25Jun2025 16:26:00.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has made the advancement [Monster Hunter]
+[25Jun2025 16:26:00.056] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Found 163 recipes with the 'lightmanscurrency' namespace!
+[25Jun2025 16:26:00.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has made the advancement [My first penny!]
+[25Jun2025 16:27:14.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Applied effect Haste to elismaelkira]
+[25Jun2025 16:27:23.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set the weather to clear]
+[25Jun2025 16:29:20.975] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 17 38 -313
+[25Jun2025 16:29:44.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Applied effect Regeneration to elismaelkira]
+[25Jun2025 16:30:06.363] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 16:30:06.391] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 16:30:06.702] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -275 47 175
+[25Jun2025 16:30:07.360] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at -265 35 351
+[25Jun2025 16:30:13.128] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -297 34 29
+[25Jun2025 16:30:13.645] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at -297 41 -281
+[25Jun2025 16:30:15.748] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -323 27 -159
+[25Jun2025 16:30:16.345] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/horse/CoatColors
+[25Jun2025 16:30:16.347] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/horse/CoatTypes
+[25Jun2025 16:30:32.348] [Worker-Main-12/DEBUG] [betterdungeons/]: Spider Dungeon at 90 42 -399
+[25Jun2025 16:30:37.352] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at 167 25 -425
+[25Jun2025 16:30:39.892] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 55 20 -441
+[25Jun2025 16:30:40.097] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at 321 36 -441
+[25Jun2025 16:30:40.334] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at -289 11 -441
+[25Jun2025 16:30:46.427] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at -153 40 -457
+[25Jun2025 16:30:50.798] [Worker-Main-7/DEBUG] [betterdungeons/]: Skeleton Dungeon at -23 13 -503
+[25Jun2025 16:30:50.817] [Worker-Main-7/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[25Jun2025 16:30:50.818] [Worker-Main-7/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md834439$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[25Jun2025 16:30:50.818] [Worker-Main-7/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md834439$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[25Jun2025 16:30:50.818] [Worker-Main-7/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md834439$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[25Jun2025 16:31:15.882] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 1 39 -585
+[25Jun2025 16:31:15.900] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at -159 43 -585
+[25Jun2025 16:31:18.859] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at 343 30 -601
+[25Jun2025 16:31:25.236] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at 167 27 -625
+[25Jun2025 16:31:37.003] [Worker-Main-12/DEBUG] [betterdungeons/]: Small Dungeon at -305 21 -633
+[25Jun2025 16:31:58.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Applied effect Saturation to elismaelkira]
+[25Jun2025 16:32:21.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Applied effect Saturation to 2 targets]
+[25Jun2025 16:32:39.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set the weather to clear]
+[25Jun2025 16:33:08.502] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at -433 11 -287
+[25Jun2025 16:33:14.263] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at -457 41 23
+[25Jun2025 16:33:14.719] [Worker-Main-18/DEBUG] [betterdungeons/]: Small Dungeon at -457 47 189
+[25Jun2025 16:33:16.994] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at -473 37 -153
+[25Jun2025 16:33:17.183] [Worker-Main-12/DEBUG] [betterdungeons/]: Zombie Dungeon at -473 49 183
+[25Jun2025 16:33:17.760] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at -473 36 -435
+[25Jun2025 16:33:29.278] [Worker-Main-12/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[25Jun2025 16:33:29.278] [Worker-Main-12/DEBUG] [ModernFix/]: Structure farmersdelight:village/houses/plains_compost_pile is being run through DFU (hash 937cf649304afae32688be1cde51103715974016a994c042fcb5db43bd46fc03), this will cause launch time delays
+[25Jun2025 16:33:29.288] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/TypeRewriteRule$Nop
+[25Jun2025 16:33:29.374] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/FunctionType$Instance
+[25Jun2025 16:33:29.718] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/kinds/IdF$Instance
+[25Jun2025 16:33:30.146] [Worker-Main-12/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[25Jun2025 16:33:30.146] [Worker-Main-12/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 1841a7692d09c3bdab6a655ee3aa384b646244da518d90b1f9c4e68e29667cee), this will cause launch time delays
+[25Jun2025 16:33:57.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set the time to 657]
+[25Jun2025 16:34:02.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set own game mode to Creative Mode]
+[25Jun2025 16:34:12.755] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jun2025 16:34:12.756] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (0 tiles)
+[25Jun2025 16:34:12.756] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #1 data to player elismaelkira
+[25Jun2025 16:34:20.771] [Worker-Main-7/DEBUG] [betterdungeons/]: Spider Dungeon at -427 47 221
+[25Jun2025 16:34:41.957] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at -473 17 359
