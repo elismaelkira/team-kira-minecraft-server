@@ -3078,3 +3078,24 @@ Caused by: java.lang.NoSuchMethodException: net.minecraft.world.GameRules$Boolea
 [25Jun2025 23:17:09.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set own game mode to Survival Mode]
 [25Jun2025 23:17:56.649] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: arpom lost connection: Disconnected
 [25Jun2025 23:17:56.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom left the game
+[25Jun2025 23:18:48.457] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@11036982
+[25Jun2025 23:18:48.466] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: arpom[/127.51.25.239:52815] logged in with entity id 1062 at (-7.28356361736215, 67.0, 92.88822269118802)
+[25Jun2025 23:18:48.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom joined the game
+[25Jun2025 23:18:48.490] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player arpom
+[25Jun2025 23:18:48.491] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player arpom
+[25Jun2025 23:18:48.491] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player arpom
+[25Jun2025 23:18:48.492] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player arpom
+[25Jun2025 23:19:17.098] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: arpom lost connection: Disconnected
+[25Jun2025 23:19:17.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom left the game
+[25Jun2025 23:23:06.153] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@30ca966a
+[25Jun2025 23:23:06.160] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: arpom[/127.51.25.239:34835] logged in with entity id 1216 at (-7.28356361736215, 67.0, 92.88822269118802)
+[25Jun2025 23:23:06.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom joined the game
+[25Jun2025 23:23:06.181] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player arpom
+[25Jun2025 23:23:06.182] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player arpom
+[25Jun2025 23:23:06.183] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player arpom
+[25Jun2025 23:23:06.183] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player arpom
+[25Jun2025 23:24:22.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set the weather to clear]
+[25Jun2025 23:25:14.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set own game mode to Creative Mode]
+[25Jun2025 23:25:39.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set own game mode to Survival Mode]
+[25Jun2025 23:25:48.748] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: arpom lost connection: Disconnected
+[25Jun2025 23:25:48.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom left the game
