@@ -4,18 +4,18 @@ isDebugModeEnabled = false
 # You can prevent Entities from spawning in these settings, keep in mind if you disable
 # an Entity, it will not spawn regardless of its Advanced Entity Spawn Settings
 ["Toggle Entity Spawning Settings"]
-	# Toggle Arachnon Spawning
-	arachnonSpawning = true
-	# Toggle Hellhound Spawning
-	hellhoundSpawning = true
 	# Toggle Crab Spawning
 	crabSpawning = true
-	# Toggle Seahorse Spawning
-	seahorseSpawning = true
 	# Toggle Acidic Archvine Spawning
 	acidicArchvineSpawning = true
 	# Toggle Bufflon Spawning
 	bufflonSpawning = true
+	# Toggle Seahorse Spawning
+	seahorseSpawning = true
+	# Toggle Hellhound Spawning
+	hellhoundSpawning = true
+	# Toggle Arachnon Spawning
+	arachnonSpawning = true
 
 # Tutorial on how to use the Advanced Entity Spawn Settings:
 # Lets start by explaining what each value does, and how to properly use it.
@@ -65,10 +65,23 @@ isDebugModeEnabled = false
 #
 [Advanced]
 
+	[Advanced.Crab]
+		crabSpawnBiomes = "minecraft:beach/400/2/5,minecraft:warm_ocean/400/2/5"
+		crabDictionaryBiomeBlacklist = ""
+		crabDictionaryTags = ""
+
+		[Advanced.Crab.Dictionary]
+			#Range: 1 ~ 100
+			crabDictionaryMaxSpawns = 5
+			#Range: 1 ~ 100
+			crabDictionaryMinSpawns = 2
+			#Range: 1 ~ 1000
+			crabDictionaryWeight = 400
+
 	[Advanced.Arachnon]
-		arachnonSpawnBiomes = "minecraft:plains/20/1/1,minecraft:mountains/20/1/1,minecraft:gravelly_mountains/20/1/1"
-		arachnonDictionaryBiomeBlacklist = ""
 		arachnonDictionaryTags = ""
+		arachnonDictionaryBiomeBlacklist = ""
+		arachnonSpawnBiomes = "minecraft:plains/20/1/1,minecraft:mountains/20/1/1,minecraft:gravelly_mountains/20/1/1"
 
 		[Advanced.Arachnon.Dictionary]
 			#Range: 1 ~ 1000
@@ -78,68 +91,55 @@ isDebugModeEnabled = false
 			#Range: 1 ~ 100
 			arachnonDictionaryMaxSpawns = 1
 
-	[Advanced.Hellhound]
-		hellhoundSpawnBiomes = "minecraft:nether_wastes/30/3/6,minecraft:soul_sand_valley/30/3/6"
-		hellhoundDictionaryBiomeBlacklist = ""
-		hellhoundDictionaryTags = ""
-
-		[Advanced.Hellhound.Dictionary]
-			#Range: 1 ~ 1000
-			hellhoundDictionaryWeight = 30
-			#Range: 1 ~ 100
-			hellhoundDictionaryMinSpawns = 3
-			#Range: 1 ~ 100
-			hellhoundDictionaryMaxSpawns = 6
-
-	[Advanced.Crab]
-		crabSpawnBiomes = "minecraft:beach/400/2/5,minecraft:warm_ocean/400/2/5"
-		crabDictionaryBiomeBlacklist = ""
-		crabDictionaryTags = ""
-
-		[Advanced.Crab.Dictionary]
-			#Range: 1 ~ 1000
-			crabDictionaryWeight = 400
-			#Range: 1 ~ 100
-			crabDictionaryMinSpawns = 2
-			#Range: 1 ~ 100
-			crabDictionaryMaxSpawns = 5
-
 	[Advanced.Seahorse]
-		seahorseSpawnBiomes = "minecraft:warm_ocean/25/3/6,minecraft:deep_warm_ocean/25/3/6,minecraft:ocean/10/2/3,minecraft:lukewarm_ocean/10/2/3,minecraft:deep_ocean/10/2/3,minecraft:deep_lukewarm_ocean/10/2/3"
 		seahorseDictionaryBiomeBlacklist = ""
+		seahorseSpawnBiomes = "minecraft:warm_ocean/25/3/6,minecraft:deep_warm_ocean/25/3/6,minecraft:ocean/10/2/3,minecraft:lukewarm_ocean/10/2/3,minecraft:deep_ocean/10/2/3,minecraft:deep_lukewarm_ocean/10/2/3"
 		seahorseDictionaryTags = ""
 
 		[Advanced.Seahorse.Dictionary]
+			#Range: 1 ~ 100
+			seahorseDictionaryMaxSpawns = 3
 			#Range: 1 ~ 1000
 			seahorseDictionaryWeight = 10
 			#Range: 1 ~ 100
 			seahorseDictionaryMinSpawns = 2
+
+	[Advanced.Hellhound]
+		hellhoundDictionaryTags = ""
+		hellhoundDictionaryBiomeBlacklist = ""
+		hellhoundSpawnBiomes = "minecraft:nether_wastes/30/3/6,minecraft:soul_sand_valley/30/3/6"
+
+		[Advanced.Hellhound.Dictionary]
 			#Range: 1 ~ 100
-			seahorseDictionaryMaxSpawns = 3
+			hellhoundDictionaryMaxSpawns = 6
+			#Range: 1 ~ 1000
+			hellhoundDictionaryWeight = 30
+			#Range: 1 ~ 100
+			hellhoundDictionaryMinSpawns = 3
+
+	[Advanced.Bufflon]
+		bufflonSpawnBiomes = "minecraft:snowy_tundra/3/1/1,minecraft:frozen_river/3/1/1,minecraft:snowy_mountains/3/1/1"
+		bufflonDictionaryTags = ""
+		bufflonDictionaryBiomeBlacklist = ""
+
+		[Advanced.Bufflon.Dictionary]
+			#Range: 1 ~ 100
+			bufflonDictionaryMinSpawns = 1
+			#Range: 1 ~ 1000
+			bufflonDictionaryWeight = 3
+			#Range: 1 ~ 100
+			bufflonDictionaryMaxSpawns = 1
 
 	[Advanced."Acidic Archvine"]
+		acidicArchvineDictionaryTags = ""
 		acidicArchvineSpawnBiomes = "minecraft:nether_wastes/30/1/1,minecraft:crimson_forest/10/1/1,minecraft:jungle/110/1/1,minecraft:jungle_edge/110/1/1,minecraft:jungle_hills/110/1/1,minecraft:modified_jungle/110/1/1,minecraft:modified_jungle_edge/110/1/1"
 		acidicArchvineDictionaryBiomeBlacklist = ""
-		acidicArchvineDictionaryTags = ""
 
 		[Advanced."Acidic Archvine".Dictionary]
 			#Range: 1 ~ 1000
 			acidicArchvineDictionaryWeight = 10
 			#Range: 1 ~ 100
-			acidicArchvineDictionaryMinSpawns = 1
-			#Range: 1 ~ 100
 			acidicArchvineDictionaryMaxSpawns = 1
-
-	[Advanced.Bufflon]
-		bufflonSpawnBiomes = "minecraft:snowy_tundra/3/1/1,minecraft:frozen_river/3/1/1,minecraft:snowy_mountains/3/1/1"
-		bufflonDictionaryBiomeBlacklist = ""
-		bufflonDictionaryTags = ""
-
-		[Advanced.Bufflon.Dictionary]
-			#Range: 1 ~ 1000
-			bufflonDictionaryWeight = 3
 			#Range: 1 ~ 100
-			bufflonDictionaryMinSpawns = 1
-			#Range: 1 ~ 100
-			bufflonDictionaryMaxSpawns = 1
+			acidicArchvineDictionaryMinSpawns = 1
 

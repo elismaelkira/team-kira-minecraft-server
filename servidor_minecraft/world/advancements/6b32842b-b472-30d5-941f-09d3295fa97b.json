@@ -1,0 +1,33 @@
+{
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-25 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-06-25 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-06-25 01:44:18 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-25 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-06-25 01:43:49 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

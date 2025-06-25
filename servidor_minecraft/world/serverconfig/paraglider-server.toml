@@ -21,10 +21,10 @@ paragliderDurability = 0
 paragliderInTowersOfTheWild = "DEFAULT"
 
 [spiritOrbs]
-	#If true, Ender Dragon will drop heart container(stamina vessel if heart container is disabled) upon death.
-	enderDragonDropsVessel = true
 	#If true, Raids will give heart container(stamina vessel if heart container is disabled) upon victory.
 	raidGivesVessel = true
+	#If true, Ender Dragon will drop heart container(stamina vessel if heart container is disabled) upon death.
+	enderDragonDropsVessel = true
 
 [vessels]
 	#Starting health points.
@@ -53,21 +53,21 @@ paragliderInTowersOfTheWild = "DEFAULT"
 
 	[stamina.consumptions]
 		#Range: > -2147483648
-		idleStaminaConsumption = 20
-		#Range: > -2147483648
-		midairStaminaConsumption = 0
-		#Range: > -2147483648
-		runningStaminaConsumption = -10
-		#Range: > -2147483648
-		swimmingStaminaConsumption = -6
-		#Range: > -2147483648
 		underwaterStaminaConsumption = 3
-		#Range: > -2147483648
-		breathingUnderwaterStaminaConsumption = 10
 		#Range: > -2147483648
 		ridingStaminaConsumption = 20
 		#Range: > -2147483648
 		paraglidingStaminaConsumption = -3
 		#Range: > -2147483648
+		runningStaminaConsumption = -10
+		#Range: > -2147483648
+		midairStaminaConsumption = 0
+		#Range: > -2147483648
+		breathingUnderwaterStaminaConsumption = 10
+		#Range: > -2147483648
+		swimmingStaminaConsumption = -6
+		#Range: > -2147483648
 		ascendingStaminaConsumption = -3
+		#Range: > -2147483648
+		idleStaminaConsumption = 20
 
