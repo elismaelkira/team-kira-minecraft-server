@@ -11929,3 +11929,43 @@ Caused by: java.lang.NoSuchMethodException: net.minecraft.world.GameRules$Boolea
 [25Jun2025 16:43:38.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set the weather to clear]
 [25Jun2025 16:43:38.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set the weather to clear]
 [25Jun2025 16:44:39.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Applied effect Night Vision to 2 targets]
+[25Jun2025 16:44:56.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set own game mode to Spectator Mode]
+[25Jun2025 16:45:07.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Applied effect Regeneration to 2 targets]
+[25Jun2025 16:45:15.700] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cave Spider did not drop coins, as it was spawned by a spawner.
+[25Jun2025 16:45:16.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom has made the advancement [Monster Hunter]
+[25Jun2025 16:45:16.655] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Found 163 recipes with the 'lightmanscurrency' namespace!
+[25Jun2025 16:45:16.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom has made the advancement [My first penny!]
+[25Jun2025 16:45:18.483] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cave Spider did not drop coins, as it was spawned by a spawner.
+[25Jun2025 16:45:21.379] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cave Spider did not drop coins, as it was spawned by a spawner.
+[25Jun2025 16:45:28.476] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 16:45:28.498] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 16:45:31.979] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cave Spider did not drop coins, as it was spawned by a spawner.
+[25Jun2025 16:45:34.876] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cave Spider did not drop coins, as it was spawned by a spawner.
+[25Jun2025 16:45:46.675] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cave Spider did not drop coins, as it was spawned by a spawner.
+[25Jun2025 16:45:51.876] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cave Spider did not drop coins, as it was spawned by a spawner.
+[25Jun2025 16:46:34.683] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cave Spider did not drop coins, as it was spawned by a spawner.
+[25Jun2025 16:47:47.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set own game mode to Survival Mode]
+[25Jun2025 16:48:41.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set own game mode to Creative Mode]
+[25Jun2025 16:50:02.057] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/ruined_portal' has T3 level chest loot. Adding coins to the spawned loot.
+[25Jun2025 16:50:02.057] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 9x lightmanscurrency:coin_iron to the chest loot.
+[25Jun2025 16:50:02.057] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 7x lightmanscurrency:coin_gold to the chest loot.
+[25Jun2025 16:50:02.058] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 6x lightmanscurrency:coin_gold to the chest loot.
+[25Jun2025 16:50:02.058] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 3x lightmanscurrency:coin_gold to the chest loot.
+[25Jun2025 16:50:02.058] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_gold to the chest loot.
+[25Jun2025 16:50:23.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom has made the advancement [Ice Bucket Challenge]
+[25Jun2025 16:50:28.421] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 16:50:28.446] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 16:50:31.051] [Worker-Main-7/DEBUG] [betterdungeons/]: Small Dungeon at 487 24 -457
+[25Jun2025 16:50:54.853] [Server thread/INFO] [antiqueatlas/]: Created new marker #2"Here lies elismaelkira"@(190, -336)
+[25Jun2025 16:50:54.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira fell out of the world
+[25Jun2025 16:51:03.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Teleported elismaelkira to arpom]
+[25Jun2025 16:51:11.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set the weather to clear]
+[25Jun2025 16:51:16.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom has made the advancement [Acquire Hardware]
+[25Jun2025 16:51:21.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has made the advancement [Ice Bucket Challenge]
+[25Jun2025 16:51:44.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Teleported arpom to elismaelkira]
+[25Jun2025 16:51:52.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has made the advancement [We Need to Go Deeper]
+[25Jun2025 16:51:52.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[25Jun2025 16:51:52.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/lighting/IWorldLightListener$Dummy
+[25Jun2025 16:51:55.743] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/task/ShootTargetTask$Status
+[25Jun2025 16:52:15.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom has made the advancement [Suit Up]
+[25Jun2025 16:54:38.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom has made the advancement [We Need to Go Deeper]
