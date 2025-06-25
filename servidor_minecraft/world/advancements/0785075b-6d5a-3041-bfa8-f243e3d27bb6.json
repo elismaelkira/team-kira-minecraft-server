@@ -47,6 +47,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/netherrack_stalactite_from_netherrack": {
+    "criteria": {
+      "netherrack": "2025-06-25 16:55:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:30:48 +0000"
@@ -65,9 +77,27 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/iron_chandelier": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_gray_single_oak": {
     "criteria": {
       "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-25 16:54:38 +0000"
     },
     "done": true
   },
@@ -104,6 +134,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -155,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:30:48 +0000"
@@ -183,6 +225,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2025-06-25 16:43:50 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/iron_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -234,9 +282,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -250,6 +310,18 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-25 16:36:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/betternether/netherrack_furnace_from_netherrack": {
+    "criteria": {
+      "netherrack": "2025-06-25 16:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -271,9 +343,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/betternether/netherrack_stalactite_from_netherrack": {
+    "criteria": {
+      "netherrack": "2025-06-25 16:55:37 +0000"
     },
     "done": true
   },
@@ -321,6 +405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-25 16:41:54 +0000"
@@ -345,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2025-06-25 16:31:56 +0000"
@@ -354,6 +450,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-06-25 16:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-25 16:52:15 +0000"
     },
     "done": true
   },
@@ -381,6 +483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-06-25 16:47:35 +0000"
@@ -396,6 +504,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-06-25 16:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -465,9 +579,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -541,13 +667,26 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-06-25 16:47:14 +0000",
-      "minecraft:cave_spider": "2025-06-25 16:45:16 +0000"
+      "minecraft:cave_spider": "2025-06-25 16:45:16 +0000",
+      "minecraft:zombie": "2025-06-25 16:50:36 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-25 16:54:38 +0000"
+    },
+    "done": true
   },
   "ironagefurniture:recipes/chairs/chair_wood_ironage_stool_short_oak": {
     "criteria": {
       "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -569,6 +708,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-25 16:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/netherrack_furnace_from_netherrack": {
+    "criteria": {
+      "netherrack": "2025-06-25 16:55:37 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_wood": "2025-06-25 16:23:46 +0000",
@@ -586,6 +737,12 @@
     "criteria": {
       "has_wood": "2025-06-25 16:23:46 +0000",
       "has_the_recipe": "2025-06-25 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -771,6 +928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/bricks": {
     "criteria": {
       "has_wood": "2025-06-25 16:23:46 +0000"
@@ -792,6 +955,12 @@
   "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_yellow_single_oak": {
     "criteria": {
       "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-25 16:55:37 +0000"
     },
     "done": true
   },
@@ -861,6 +1030,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/ender_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-25 16:58:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-25 16:36:16 +0000"
@@ -870,6 +1045,12 @@
   "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_black_single_oak": {
     "criteria": {
       "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -910,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_cyan_single_oak": {
     "criteria": {
       "has_rock": "2025-06-25 16:31:45 +0000"
@@ -928,6 +1115,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-06-25 16:24:32 +0000"
@@ -943,6 +1136,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-25 16:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -997,6 +1196,12 @@
   "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_green_single_oak": {
     "criteria": {
       "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-25 16:52:15 +0000"
     },
     "done": true
   },
@@ -1094,6 +1299,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2025-06-25 16:23:46 +0000",
@@ -1137,6 +1348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-06-25 16:31:45 +0000"
@@ -1176,6 +1393,12 @@
   "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_padded_light_gray_single_oak": {
     "criteria": {
       "has_rock": "2025-06-25 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },
@@ -1246,6 +1469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 16:51:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:30:48 +0000"
@@ -1263,6 +1492,12 @@
       "has_rock": "2025-06-25 16:31:45 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-25 16:54:39 +0000"
+    },
+    "done": false
   },
   "ironagefurniture:recipes/chairs/chair_wood_ironage_bench_back_padded_lime_single_oak": {
     "criteria": {
@@ -1309,6 +1544,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-06-25 16:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-25 16:51:16 +0000"
     },
     "done": true
   },

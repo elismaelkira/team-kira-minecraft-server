@@ -11969,3 +11969,20 @@ Caused by: java.lang.NoSuchMethodException: net.minecraft.world.GameRules$Boolea
 [25Jun2025 16:51:55.743] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/task/ShootTargetTask$Status
 [25Jun2025 16:52:15.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom has made the advancement [Suit Up]
 [25Jun2025 16:54:38.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom has made the advancement [We Need to Go Deeper]
+[25Jun2025 16:55:30.565] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[25Jun2025 16:55:31.107] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 16:55:31.136] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 16:56:49.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Teleported arpom to elismaelkira]
+[25Jun2025 16:57:35.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Teleported elismaelkira to arpom]
+[25Jun2025 16:58:24.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Applied effect Saturation to arpom]
+[25Jun2025 16:58:35.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set own game mode to Creative Mode]
+[25Jun2025 16:58:40.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [elismaelkira: Set own game mode to Spectator Mode]
+[25Jun2025 16:58:54.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [arpom: Set own game mode to Survival Mode]
+[25Jun2025 16:59:30.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has made the advancement [Those Were the Days]
+[25Jun2025 17:00:20.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom fell from a high place
+[25Jun2025 17:00:30.198] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: arpom lost connection: Disconnected
+[25Jun2025 17:00:30.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arpom left the game
+[25Jun2025 17:00:31.032] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 17:00:31.057] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 17:03:00.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has completed the challenge [Hot Tourist Destinations]
+[25Jun2025 17:04:49.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elismaelkira has made the advancement [A Terrible Fortress]

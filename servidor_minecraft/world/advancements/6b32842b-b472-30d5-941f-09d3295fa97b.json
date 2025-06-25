@@ -116,6 +116,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-25 16:51:52 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blinds": {
     "criteria": {
       "has_wood": "2025-06-25 16:19:59 +0000"
@@ -126,6 +132,7 @@
     "criteria": {
       "minecraft:forest": "2025-06-25 16:23:39 +0000",
       "minecraft:taiga": "2025-06-25 16:19:37 +0000",
+      "minecraft:taiga_hills": "2025-06-25 16:50:38 +0000",
       "minecraft:river": "2025-06-25 16:32:50 +0000",
       "minecraft:plains": "2025-06-25 01:43:49 +0000"
     },
@@ -210,6 +217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 16:51:21 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2025-06-25 16:19:59 +0000"
@@ -246,6 +259,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-25 16:59:30 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_prismarine": {
     "criteria": {
       "has_wood": "2025-06-25 16:19:59 +0000",
@@ -268,6 +287,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-25 16:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 16:51:21 +0000"
     },
     "done": true
   },
@@ -340,9 +365,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:magma_cube": "2025-06-25 16:55:27 +0000",
       "minecraft:creeper": "2025-06-25 16:26:00 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-25 16:51:52 +0000"
+    },
+    "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
@@ -418,6 +450,14 @@
       "has_wood": "2025-06-25 16:19:59 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-25 16:58:11 +0000",
+      "minecraft:nether_wastes": "2025-06-25 16:51:52 +0000",
+      "minecraft:warped_forest": "2025-06-25 17:00:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -526,9 +566,21 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 16:51:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-06-25 16:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-25 16:51:21 +0000"
     },
     "done": true
   },
